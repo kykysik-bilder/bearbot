@@ -680,3 +680,5 @@ class TelegramBot:
 if __name__ == "__main__":
     bot = TelegramBot()
     bot.run()
+#   U p d a t e d   1 0 / 1 9 / 2 0 2 5   2 2 : 3 9 : 3 0  
+ 
